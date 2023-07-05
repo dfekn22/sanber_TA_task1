@@ -7,6 +7,6 @@
 - npx cypress open 
 - click on sanber_TA.ts file
 - all automation flow will be executed
--or-
+- -or-
 - npx cypress run
 - wait until run is finished
